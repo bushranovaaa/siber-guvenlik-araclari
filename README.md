@@ -15,17 +15,18 @@ Bu repo, Sibel güvenlik merakımı yansıtıyor. şu an için basit bir Port ta
  Şimdilik sadece port tarayıcı olduğu için onun kullanımı şöyle: 
 
  1. Bu depoyu klonlayın: 
-    ’’’bash
+    ```bash
     git clone [https://github.com/bushranovaaa/siber-güvenlik-araclari](https://github.com/bushranovaaa/siber-guvenlik-araclari)
-    ’’’
+    ```
 2. ’port_tarayici’ klasörüne gidin: 
-’’’bash 
-cd siber-guvenlik-araclari/port_tarayici
-’’’
+```bash 
+   cd siber-guvenlik-araclari/.                 
+   port_tarayici
+```
 3. Port tarayıcı script'ini çalıştırın:
-’’’bash 
-python port_tarayici.py
-’’’
+```bash 
+   python port_tarayici.py
+```
 
 Script sizden IP adresini girmenizi isteyecektir.
 
